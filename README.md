@@ -1,6 +1,6 @@
 # Alonso
 
-Building interfaces and workflows for AI systems.
+Building interfaces and workflows for AI.
 
 Frontend engineer focused on AI systems, developer tooling, and human-AI workflows.
 
