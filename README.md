@@ -17,7 +17,7 @@ Currently building analysis and operational workflows at RAIC Labs while explori
 
 # Featured writing
 
-- [Skills Are Overhyped. I Converted Vercel's Into Cursor Rules and Got Real Performance Wins](https://dev.to/alonsarias/skills-are-overhyped-i-converted-vercels-into-cursor-rules-and-got-real-performance-wins-1fc9)
+- [Skills Are Overhyped.](https://dev.to/alonsarias/skills-are-overhyped-i-converted-vercels-into-cursor-rules-and-got-real-performance-wins-1fc9)
 
 - [7 Essential Design Patterns for Building Better AI Products](https://dev.to/alonsarias/7-essential-design-patterns-for-building-better-ai-products-pdk)
 
