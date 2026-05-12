@@ -2,9 +2,7 @@
 
 Building interfaces and workflows for AI.
 
-Frontend engineer focused on AI systems, developer tooling, and human-AI workflows.
-
-Currently building analysis and operational workflows at RAIC Labs while exploring AI-assisted engineering.
+Currently building analysis and operational workflows while exploring AI-assisted engineering.
 
 ## What I work on
 
