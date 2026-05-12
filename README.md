@@ -17,11 +17,11 @@ Currently building analysis and operational workflows at RAIC Labs while explori
 
 # Featured writing
 
-- [Skills Are Overhyped.](https://dev.to/alonsarias/skills-are-overhyped-i-converted-vercels-into-cursor-rules-and-got-real-performance-wins-1fc9)
+- [Skills Are Overhyped](https://dev.to/alonsarias/skills-are-overhyped-i-converted-vercels-into-cursor-rules-and-got-real-performance-wins-1fc9)
 
 - [7 Essential Design Patterns for Building Better AI Products](https://dev.to/alonsarias/7-essential-design-patterns-for-building-better-ai-products-pdk)
 
-- [There Are Two Gaps Agents Closed. One. The Other Is Yours](https://dev.to/alonsarias/there-are-two-gaps-agents-closed-one-the-other-is-yours-14fl)
+- [There Are Two Gaps. Agents Closed One. The Other Is Yours.](https://dev.to/alonsarias/there-are-two-gaps-agents-closed-one-the-other-is-yours-14fl)
 
 - [Stop Wrestling With AI Prompts](https://dev.to/alonsarias/stop-wrestling-with-ai-prompts-build-ui-components-visually-and-generate-perfect-prompts-3c1i)
 
