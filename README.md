@@ -1,25 +1,34 @@
 # Alonso
 
-Building interfaces and systems for AI.
+Building interfaces and workflows for AI systems.
 
-## Work
+Frontend engineer focused on AI systems, developer tooling, and human-AI workflows.
 
-- [structured-prompts-ui](https://github.com/alonsarias/structured-prompts-ui)  
-  Interface for structured prompt systems and AI workflows  
+Currently building analysis and operational workflows at RAIC Labs while exploring AI-assisted engineering.
 
-- [agent-rules](https://github.com/alonsarias/agent-rules)  
-  Rules and systems for controlling agent behavior  
+## What I work on
 
-- [pureslop](https://github.com/alonsarias/pureslop)  
-  Prompt optimization and input quality  
+- Interfaces for AI systems
+- Human-AI workflows
+- AI-assisted development workflows
+- Developer tooling
+- Large-scale data exploration interfaces
+- React + TypeScript frontend architectures
 
-## Perspective
+# Featured writing
 
-- AI systems are interfaces  
-- Agents are programmable systems  
-- Reliability comes from structure, not prompts  
+- [Skills Are Overhyped. I Converted Vercel's Into Cursor Rules and Got Real Performance Wins](https://dev.to/alonsarias/skills-are-overhyped-i-converted-vercels-into-cursor-rules-and-got-real-performance-wins-1fc9)
 
-## Contact
+- [7 Essential Design Patterns for Building Better AI Products](https://dev.to/alonsarias/7-essential-design-patterns-for-building-better-ai-products-pdk)
 
-- LinkedIn: https://www.linkedin.com/in/alonsarias  
-- Writing: https://dev.to/alonsarias  
+- [There Are Two Gaps Agents Closed. One. The Other Is Yours](https://dev.to/alonsarias/there-are-two-gaps-agents-closed-one-the-other-is-yours-14fl)
+
+- [Stop Wrestling With AI Prompts](https://dev.to/alonsarias/stop-wrestling-with-ai-prompts-build-ui-components-visually-and-generate-perfect-prompts-3c1i)
+
+- [PureSlop.md](https://dev.to/alonsarias/pureslopmd-54ek)
+
+---
+
+## Philosophy
+
+I’m interested in making AI systems more usable, reliable, and operational through better interfaces, workflows, and interaction patterns.
