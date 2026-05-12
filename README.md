@@ -27,8 +27,6 @@ Currently building analysis and operational workflows at RAIC Labs while explori
 
 - [PURESLOP.md](https://dev.to/alonsarias/pureslopmd-54ek)
 
----
-
 ## Philosophy
 
 I’m interested in making AI systems more usable, reliable, and operational through better interfaces, workflows, and interaction patterns.
